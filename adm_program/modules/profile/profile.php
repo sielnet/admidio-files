@@ -931,7 +931,6 @@ $page->addHtml(admFuncShowCreateChangeInfoById(
 
 // sielnet
 require_once(ADMIDIO_PATH . FOLDER_PLUGINS .'/keymanager/keymanager_profile_addin.php');
-include_once(ADMIDIO_PATH . FOLDER_PLUGINS .'/awards/awards_profile_addin.php');
 
 
 $page->show();
